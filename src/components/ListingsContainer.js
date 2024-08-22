@@ -28,6 +28,7 @@ function ListingsContainer() {
     .catch(error => console.error('Error deleting listing:', error));
   }
 
+
   return (
     <main>
       <ul className="cards">

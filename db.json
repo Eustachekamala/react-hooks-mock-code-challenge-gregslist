@@ -15,13 +15,6 @@
       "price": 20
     },
     {
-      "id": 5,
-      "description": "wood",
-      "image": "./images/wood.jpg",
-      "location": "Greenpoint",
-      "price": 30
-    },
-    {
       "id": 6,
       "description": "Beautiful couch",
       "image": "./images/couch.jpg",
